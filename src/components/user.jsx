@@ -5,7 +5,7 @@ export const User = ({ imagen, nombre, estado }) => {
     return (
         /* fragments */
         <>
-            <div className="card-container">
+            <div className="card-container resplandor">
                 <div className="card-image-section">
                     <img src={imagen} alt="Campaign Manager Morty" />
                 </div>

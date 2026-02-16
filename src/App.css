@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+.resplador {
+  box-shadow: 2px 2px 15px 8px rgb(255, 255, 255);
+  margin: 20px 0px 20px;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
